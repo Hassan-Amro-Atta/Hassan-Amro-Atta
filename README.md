@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Hassan Amro Atta
 
-<!--
-**Hassan-Amro-Atta/Hassan-Amro-Atta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in **Data Science, Artificial Intelligence, and Mathematics**, with a curiosity for how technology and analytical thinking can help solve real-world problems.
 
-Here are some ideas to get you started:
+I enjoy building projects, exploring new ideas, and learning through hands-on experimentation. I'm also interested in collaborating with others, exchanging knowledge, and exploring opportunities in technology, research, and academic communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Data Science & Machine Learning
+- Artificial Intelligence
+- Mathematics & Statistics
+- Research and collaborative projects
+
+### Technologies
+- Python
+- NumPy & Pandas
+- Scikit-learn
+- TensorFlow / Keras
+- SQL
+- Flask
+- HTML / CSS / JS
+
+### What I'm Looking For
+I'm always open to connecting with fellow students, developers, researchers, and curious minds to collaborate on projects, exchange ideas, learn together, and explore opportunities in research and technology.
+
+---
+
+*Always learning, building, and exploring.*
