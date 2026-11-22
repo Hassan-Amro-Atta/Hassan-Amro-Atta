@@ -1,6 +1,6 @@
 # Hi there, I'm Hassan Amr Atta 👋
 
-**Data Science & AI Enthusiast · Python Developer · TOFAS Awardee 2026**
+**Data Science & AI Enthusiast · Python Developer · TOFAS Awardee nationwide 2026**
 
 ---
 
